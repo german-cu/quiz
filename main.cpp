@@ -13,7 +13,6 @@ int main(int argc, char** argv)
 		Quiz1 q;
 
 		cout << "number of command line arguments: " << argc << endl;
-
 		cout << "the number of vowels in " << test << "  is: " << q.countVowels(test) << endl;
 		//cout << "argc is: " << argc << endl;
 		//cout << "argv[0] is : " << argv[0] << endl;
@@ -23,7 +22,7 @@ int main(int argc, char** argv)
 		cout << "shame on you" << endl;
 	}
 	
-	
+	cout << "program exited successfully" << endl;
 
 	return 0;
 }
