@@ -5,7 +5,7 @@ using namespace std;
 //adding comments to  illustrate how cool github is
 int main(int argc, char** argv)
 {
-
+        //commenting my code because likes commented code
 	if(argc > 1)
 	{
 		string test = argv[1];
@@ -23,6 +23,7 @@ int main(int argc, char** argv)
 	}
 	
 	cout << "program exited successfully" << endl;
+	cout << "rob still doesnt know what's going on" << endl;
 
 	return 0;
 }
